@@ -1,3 +1,2 @@
 # JavaProjects
-
-Мои решения проектов hyperskill!
+My solutions Hyperskill's projects
